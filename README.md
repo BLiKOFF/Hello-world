@@ -1,2 +1,40 @@
 # Hello-world
 for keybase
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201635d19d6487f513773f35e4430a860673ae2bcf9be9caea5763178ccd8578560a",
+      "host": "keybase.io",
+      "kid": "01201635d19d6487f513773f35e4430a860673ae2bcf9be9caea5763178ccd8578560a",
+      "uid": "f7325a329de9aade6b4ea6523a4ed119",
+      "username": "blik_off"
+    },
+    "merkle_root": {
+      "ctime": 1568307465,
+      "hash": "c5a6add236f893eaa56f4db57f52c734617ec8acc8d6a6fdf9b6f3e0e6122968886c2d18b044d6e80f68244605d78a77f03d1ae5da9938c072886e5f9194046d",
+      "hash_meta": "2524c2fbe026af337273c069f5dc4286176b25b45a5df82ae50651336199f9d5",
+      "seqno": 7005340
+    },
+    "type": "wallet.stellar",
+    "version": 2,
+    "wallet": {
+      "address": "GD36FADVJV3VIFOTRRB5AVRHKICLSMWYBIO3YCR5LHDZM3KUTEII6MSF",
+      "entropy": "sgtTRZl7QlFOULH/For+SOmg",
+      "network": "stellar"
+    },
+    "wallet_key": {
+      "kid": "0120f7e280754d775415d38c43d056275204b932d80a1dbc0a3d59c7966d5499108f0a",
+      "reverse_sig": "hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9+KAdU13VBXTjEPQVidSBLky2AodvAo9WceWbVSZEI8Kp3BheWxvYWTFBBt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTYzNWQxOWQ2NDg3ZjUxMzc3M2YzNWU0NDMwYTg2MDY3M2FlMmJjZjliZTljYWVhNTc2MzE3OGNjZDg1Nzg1NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTYzNWQxOWQ2NDg3ZjUxMzc3M2YzNWU0NDMwYTg2MDY3M2FlMmJjZjliZTljYWVhNTc2MzE3OGNjZDg1Nzg1NjBhIiwidWlkIjoiZjczMjVhMzI5ZGU5YWFkZTZiNGVhNjUyM2E0ZWQxMTkiLCJ1c2VybmFtZSI6ImJsaWtfb2ZmIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTY4MzA3NDY1LCJoYXNoIjoiYzVhNmFkZDIzNmY4OTNlYWE1NmY0ZGI1N2Y1MmM3MzQ2MTdlYzhhY2M4ZDZhNmZkZjliNmYzZTBlNjEyMjk2ODg4NmMyZDE4YjA0NGQ2ZTgwZjY4MjQ0NjA1ZDc4YTc3ZjAzZDFhZTVkYTk5MzhjMDcyODg2ZTVmOTE5NDA0NmQiLCJoYXNoX21ldGEiOiIyNTI0YzJmYmUwMjZhZjMzNzI3M2MwNjlmNWRjNDI4NjE3NmIyNWI0NWE1ZGY4MmFlNTA2NTEzMzYxOTlmOWQ1Iiwic2Vxbm8iOjcwMDUzNDB9LCJ0eXBlIjoid2FsbGV0LnN0ZWxsYXIiLCJ2ZXJzaW9uIjoyLCJ3YWxsZXQiOnsiYWRkcmVzcyI6IkdEMzZGQURWSlYzVklGT1RSUkI1QVZSSEtJQ0xTTVdZQklPM1lDUjVMSERaTTNLVVRFSUk2TVNGIiwiZW50cm9weSI6InNndFRSWmw3UWxGT1VMSC9Gb3IrU09tZyIsIm5ldHdvcmsiOiJzdGVsbGFyIn0sIndhbGxldF9rZXkiOnsia2lkIjoiMDEyMGY3ZTI4MDc1NGQ3NzU0MTVkMzhjNDNkMDU2Mjc1MjA0YjkzMmQ4MGExZGJjMGEzZDU5Yzc5NjZkNTQ5OTEwOGYwYSIsInJldmVyc2Vfc2lnIjpudWxsfX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiNC40LjAifSwiY3RpbWUiOjE1NjgzMDc0NjYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJpZ25vcmVfaWZfdW5zdXBwb3J0ZWQiOnRydWUsInByZXYiOiIzMDBmYzAzMTVmMDdjNGQ2MjYxMDdmMTY1NjRlNzRhOGQ3MDcyMzJiODZhZGM3OWIxMzk5NjUxMzBmNGUyZDhiIiwic2Vxbm8iOjQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAJMqQU4eBH8mlvincKzv0TLr+BQ0updk90DjEBgzHEIRN76Ds5ulsyXXXGdXUuGqduIF1Dnnx3lKDnR/3h8lUCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAqibX08d/+z5g0R0ssf9Za1dAZe+g5LfFOqpikR9Ctlo3RhZ80CAqd2ZXJzaW9uAQ=="
+    }
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568307466,
+  "expire_in": 504576000,
+  "ignore_if_unsupported": true,
+  "prev": "300fc0315f07c4d626107f16564e74a8d707232b86adc79b139965130f4e2d8b",
+  "seqno": 4,
+  "tag": "signature"
+}
